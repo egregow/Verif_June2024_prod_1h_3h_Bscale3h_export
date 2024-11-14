@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>METCOOP</TAG>
+<VAR>Min T2m</VAR>
+<UNIT>deg C</UNIT>
+<PERIOD>20240610-20240629</PERIOD>
+</STAT>
